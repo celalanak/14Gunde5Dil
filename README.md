@@ -1,3 +1,5 @@
+Programlamaya yeni başlayan biri için konuları adım adım ve çeşitli dillerde örneklerle açıklamak, kavramların anlaşılmasını kolaylaştırabilir. Aşağıda, her bir başlığı bir gün boyunca öğrenebileceğiniz şekilde ayrıntılı olarak ele alacağım. Her gün için çeşitli programlama dillerinde örnekler vereceğim.
+
 # Değişkenler
 **Değişken Nedir?** Değişkenler, programınızda veri saklamak için kullanılır. Bir değişkenin bir adı, bir türü ve bir değeri vardır.
 
